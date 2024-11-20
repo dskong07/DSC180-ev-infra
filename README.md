@@ -5,6 +5,7 @@ The following notebooks are included:
 - usage and exploration of osmnx in "osmnx.ipynb"
 - usage and exploration of cenpy in "cenpy.ipynb"
 - data.ca.gov dataset of vehicle registrations in "vehicle_fuel_types_eda.ipynb"
+- investigation of dmv dataset joined with census data and AFDC data, as well as distribution analysis of ev registrations per year contained in "datamerge and distributions.ipynb"
 
 all the datasets gathered, either through an API or direct download are included in the datasets folder, and should have code in the notebooks regarding their usage.
 
