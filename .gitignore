@@ -1,2 +1,8 @@
 .ipynb_checkpoints/
 figs/
+datasets/
+data/
+assets/
+api_keys.json
+originals/
+cache/
