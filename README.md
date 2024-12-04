@@ -22,7 +22,7 @@ The following notebooks are included, along with the required datasets, sources,
         Zip Code data source is: https://gis.data.ca.gov/datasets/CDEGIS::california-zip-codes/about
 
 
-<br>
+
 -  vehicle_fuel_types_eda.ipynb, vehicle registrations dataset EDA
 
   Dataset info:
