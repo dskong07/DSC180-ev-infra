@@ -7,7 +7,7 @@ The following notebooks are included, along with the required datasets, sources,
 
 -  AFDC_EDA.ipynb, containing AFDC dataset EDA and exploration <br>
 
-  Dataset info:
+    Dataset info:
 
         AFDC dataset source: https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/all/
         Accessing this data requires an API key, which can be acquired at this link:
@@ -25,7 +25,7 @@ The following notebooks are included, along with the required datasets, sources,
 
 -  vehicle_fuel_types_eda.ipynb, vehicle registrations dataset EDA
 
-  Dataset info:
+    Dataset info:
 
         The vehicle datasets required can be found at the link https://data.ca.gov/dataset/vehicle-fuel-type-count-by-zip-code via the api, or direct download for each individual year. 
         These datasets can be downloaded via API call or direct download. 
@@ -33,13 +33,13 @@ The following notebooks are included, along with the required datasets, sources,
 
 -  datamerge and distributions.ipynb, containing investigation of dmv dataset joined with census data and AFDC data, as well as distribution analysis of ev registrations per year
     
-  Dataset info:
-
-    The vehicle datasets required can be found at the link https://data.ca.gov/dataset/vehicle-fuel-type-count-by-zip-code via the api, or direct download for each individual year. For guidance, refer to in-code instructions within "vehicle_fuel_types_eda.ipynb".
+    Dataset info:
+  
+        The vehicle datasets required can be found at the link https://data.ca.gov/dataset/vehicle-fuel-type-count-by-zip-code via the api, or direct download for each individual year. For guidance, refer to in-code instructions within "vehicle_fuel_types_eda.ipynb".
+            
+        California State Geoportal Govt Data:
         
-    California State Geoportal Govt Data:
-    
-    Zip Code data source is: https://gis.data.ca.gov/datasets/CDEGIS::california-zip-codes/about
+        Zip Code data source is: https://gis.data.ca.gov/datasets/CDEGIS::california-zip-codes/about
 
 
 
