@@ -22,25 +22,24 @@ The following notebooks are included, along with the required datasets, sources,
         Zip Code data source is: https://gis.data.ca.gov/datasets/CDEGIS::california-zip-codes/about
 
 
+<br>
+-  vehicle_fuel_types_eda.ipynb, vehicle registrations dataset EDA
 
-- vehicle_fuel_types_eda.ipynb, vehicle registrations dataset EDA
-
-    Dataset info:
+  Dataset info:
 
         The vehicle datasets required can be found at the link https://data.ca.gov/dataset/vehicle-fuel-type-count-by-zip-code via the api, or direct download for each individual year. 
         These datasets can be downloaded via API call or direct download. 
     
 
-
-- datamerge and distributions.ipynb, containing investigation of dmv dataset joined with census data and AFDC data, as well as distribution analysis of ev registrations per year
+-  datamerge and distributions.ipynb, containing investigation of dmv dataset joined with census data and AFDC data, as well as distribution analysis of ev registrations per year
     
-    Dataset info:
+  Dataset info:
 
-        The vehicle datasets required can be found at the link https://data.ca.gov/dataset/vehicle-fuel-type-count-by-zip-code via the api, or direct download for each individual year. For guidance, refer to in-code instructions within "vehicle_fuel_types_eda.ipynb".
-    
+    The vehicle datasets required can be found at the link https://data.ca.gov/dataset/vehicle-fuel-type-count-by-zip-code via the api, or direct download for each individual year. For guidance, refer to in-code instructions within "vehicle_fuel_types_eda.ipynb".
+        
     California State Geoportal Govt Data:
-
-            Zip Code data source is: https://gis.data.ca.gov/datasets/CDEGIS::california-zip-codes/about
+    
+    Zip Code data source is: https://gis.data.ca.gov/datasets/CDEGIS::california-zip-codes/about
 
 
 
