@@ -8,12 +8,12 @@ The following notebooks are included, along with the required datasets, sources,
 -  AFDC_EDA, containing AFDC dataset EDA and exploration
     Dataset info:
 
-    AFDC dataset source: https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/all/
-    Accessing this data requires an API key, which can be acquired at this link:
-    https://developer.nrel.gov/docs/
-    Additional instructions can be found in notebook.
+        AFDC dataset source: https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/all/
+        Accessing this data requires an API key, which can be acquired at this link:
+        https://developer.nrel.gov/docs/
+        Additional instructions can be found in notebook.
 
-    The US state geojson data referenced is from the open source mapping api by PublicaMundi. GitHub repo at https://github.com/PublicaMundi/MappingAPI/, with specific data from: https://raw.githubusercontent.com/PublicaMundi/MappingAPI/refs/heads/master/data/geojson/us-states.json
+        The US state geojson data referenced is from the open source mapping api by PublicaMundi. GitHub repo at https://github.com/PublicaMundi/MappingAPI/, with specific data from: https://raw.githubusercontent.com/PublicaMundi/MappingAPI/refs/heads/master/data/geojson/us-states.json
 
     California State Geoportal Govt Data:
 
@@ -24,17 +24,15 @@ The following notebooks are included, along with the required datasets, sources,
 
 
 - usage and exploration of osmnx in "osmnx.ipynb"
-    Dataset info
 
 - usage and exploration of cenpy in "cenpy.ipynb"
-    Dataset info
 
 - "vehicle_fuel_types_eda.ipynb" data.ca.gov dataset of vehicle registrations EDA
 
     Dataset info:
 
-    The vehicle datasets required can be found at the link https://data.ca.gov/dataset/vehicle-fuel-type-count-by-zip-code via the api, or direct download for each individual year. 
-    These datasets can be downloaded via API call or direct download. 
+        The vehicle datasets required can be found at the link https://data.ca.gov/dataset/vehicle-fuel-type-count-by-zip-code via the api, or direct download for each individual year. 
+        These datasets can be downloaded via API call or direct download. 
     
 
 
@@ -42,16 +40,16 @@ The following notebooks are included, along with the required datasets, sources,
     
     Dataset info:
 
-    The vehicle datasets required can be found at the link https://data.ca.gov/dataset/vehicle-fuel-type-count-by-zip-code via the api, or direct download for each individual year. For guidance, refer to in-code instructions within "vehicle_fuel_types_eda.ipynb".
+        The vehicle datasets required can be found at the link https://data.ca.gov/dataset/vehicle-fuel-type-count-by-zip-code via the api, or direct download for each individual year. For guidance, refer to in-code instructions within "vehicle_fuel_types_eda.ipynb".
     
     California State Geoportal Govt Data:
 
-        Zip Code data source is: https://gis.data.ca.gov/datasets/CDEGIS::california-zip-codes/about
+            Zip Code data source is: https://gis.data.ca.gov/datasets/CDEGIS::california-zip-codes/about
 
 - other potential data sources:
 
-    https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data
+        https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data
 
-all the datasets gathered, either through an API or direct download are included in the datasets folder, and should have code in the notebooks regarding their usage.
+all the datasets gathered, either through an API or direct download should have code in the notebooks regarding their usage.
 
 the required packages to run the notebooks locally have been included in the form of an environment <environment.yml>
