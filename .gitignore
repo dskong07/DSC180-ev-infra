@@ -6,3 +6,4 @@ assets/
 api_keys.json
 originals/
 cache/
+temp/
