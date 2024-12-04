@@ -41,7 +41,8 @@ The following notebooks are included, along with the required datasets, sources,
         
         Zip Code data source is: https://gis.data.ca.gov/datasets/CDEGIS::california-zip-codes/about
 
-
+-    osmnx.ipynb, containing exploration and usage of geospatial plotting and graph network based calculations
+-    cenpy.ipynb, containing exploration and continued usage of government census data
 
 other potential data sources:
 
