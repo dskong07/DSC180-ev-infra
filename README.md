@@ -15,17 +15,12 @@ The following notebooks are included, along with the required datasets, sources,
 
         The US state geojson data referenced is from the open source mapping api by PublicaMundi. GitHub repo at https://github.com/PublicaMundi/MappingAPI/, with specific data from: https://raw.githubusercontent.com/PublicaMundi/MappingAPI/refs/heads/master/data/geojson/us-states.json
 
-    California State Geoportal Govt Data:
-
+        California State Geoportal Govt Data:
+    
         Transmission line data source is: https://gis.data.ca.gov/datasets/CAEnergy::california-electric-transmission-lines-1/about. 
-
         Zip Code data source is: https://gis.data.ca.gov/datasets/CDEGIS::california-zip-codes/about
 
 
-
-- usage and exploration of osmnx in "osmnx.ipynb"
-
-- usage and exploration of cenpy in "cenpy.ipynb"
 
 - "vehicle_fuel_types_eda.ipynb" data.ca.gov dataset of vehicle registrations EDA
 
