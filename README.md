@@ -5,8 +5,8 @@
 Dataset requirements and instructions for the vehicle data used are also contained within the notebook.
 The following notebooks are included, along with the required datasets, sources, and instructions:
 
--  AFDC_EDA, containing AFDC dataset EDA and exploration
-Dataset info:
+-  AFDC_EDA, containing AFDC dataset EDA and exploration <br>
+        Dataset info:
 
         AFDC dataset source: https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/all/
         Accessing this data requires an API key, which can be acquired at this link:
